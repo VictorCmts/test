@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-2549.550781" y="237.500793" z="-281.456543"/>
+	<streamingExtentsMax x="-1749.550781" y="1037.500793" z="518.543457"/>
+	<entitiesExtentsMin x="-2149.550781" y="637.500793" z="118.543457"/>
+	<entitiesExtentsMax x="-2149.550781" y="637.500793" z="118.543457"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>mairie</archetypeName>
+			<flags value="1572897"/>
+			<position x="-2149.550781" y="637.500793" z="118.543457"/>
+			<rotation w="0.439958" x="-0.008990" y="0.050633" z="-0.896545"/>
+			<scaleXY value="10"/>
+			<scaleZ value="10"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>
